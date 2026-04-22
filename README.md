@@ -3,7 +3,7 @@
 ## 🎬 Portfolio Demo
 Click below to watch:
 
-[![Portfolio Demo](https://raw.githubusercontent.com/ranasami006/ranasami006/main/thumbnail.gif)](https://ranasami006.github.io/ranasami006/)
+[![Portfolio Demo](https://raw.githubusercontent.com/ranasami006/ranasami006/main/thumbnail.gif)](https://github.com/ranasami006/ranasami006/blob/main/My-Portfolio-Promo-Video.html)
 ## 🚀 CTO-Level Full Stack Developer | AI & Automation Architect
 
 Stop losing users to slow MVPs and wasting hours on manual workflows.
