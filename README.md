@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rana Sami Ullah
 
-![Banner](https://github.com/ranasami006/ranasami006/blob/main/My-Portfolio-Promo-Video.html)
+[![Portfolio Demo](https://github.com/ranasami006/ranasami006/blob/main/demo-thumbnail.png)](https://ranasami006.github.io/ranasami006/)
 
 ## 🚀 CTO-Level Full Stack Developer | AI & Automation Architect
 
