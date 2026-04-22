@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rana Sami Ullah
 
-![Banner](https://github.com/ranasami006/ranasami006/blob/main/ChatGPT%20Image%20Apr%2021%2C%202026%2C%2011_51_29%20PM.png)
+![Banner](https://github.com/ranasami006/ranasami006/blob/main/My-Portfolio-Promo-Video.html)
 
 ## 🚀 CTO-Level Full Stack Developer | AI & Automation Architect
 
