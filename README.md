@@ -1,15 +1,9 @@
 # 👋 Hi, I'm Rana Sami Ullah
-### Fractional CTO & AI Product Builder | Architecting Zero-Touch Automation
-
-[![Portfolio](https://shields.io🌐_Portfolio-sami.workflox.net-00F2FE?style=for-the-badge&logoColor=white)](https://workflox.net) [![Upwork](https://shields.io💼_Upwork-Hire_Me-14a800?style=for-the-badge&logoColor=white)](https://upwork.com)
-
----
 
 ## 🎬 Portfolio Demo
 Click below to watch:
 
-[![Portfolio Demo](https://githubusercontent.com)](https://meta.ai)
-
+[![Portfolio Demo](https://raw.githubusercontent.com/ranasami006/ranasami006/main/thumbnail.gif)](https://artifacts.meta.ai/share/a/6efd782e-da79-45f5-b24c-83eaa6894b59)
 ## 🚀 CTO-Level Full Stack Developer | AI & Automation Architect
 
 Stop losing users to slow MVPs and wasting hours on manual workflows.
@@ -21,77 +15,117 @@ I help founders and businesses **launch faster, automate smarter, and scale effi
 ## ⚡ What I Actually Do
 
 I don’t just build apps — I build **intelligent ecosystems** where:
-* **Ecosystem Sync:** Your app talks directly to your CRM  
-* **Automated Funnels:** Your CRM triggers seamless marketing pipelines 
-* **Zero-Touch Execution:** Marketing signals trigger automated business logic  
-* **Autonomous Scaling:** Your entire business runs with minimal manual effort  
 
-👉 **Result:** Higher ROI, lower operational cost, faster growth.
+- Your app talks to your CRM  
+- Your CRM talks to your marketing  
+- Your marketing triggers automated actions  
+- Your entire business runs with minimal manual effort  
 
----
-
-## 🔧 Core Tech Stack
-
-| Category | Tech & Tools |
-| :--- | :--- |
-| **🧠 AI & Core Automation** | ![OpenAI](https://shields.ioOpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://shields.ioClaude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white) ![n8n](https://shields.ion8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) ![Make](https://shields.ioMake-4A154B?style=flat-square&logo=make&logoColor=white) |
-| **📱 Front-End & Mobile** | ![React Native](https://shields.ioReact_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://shields.ioNext.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://shields.ioReact-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **💻 Backend & Data** | ![Node.js](https://shields.ioNode.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://shields.ioSupabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://shields.ioFirebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **☁️ DB & Cloud Infrastructure**| ![PostgreSQL](https://shields.ioPostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://shields.ioMongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![AWS](https://shields.ioAWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-
----
-
-## 📊 Live Software Engineering Metrics
-
-### 🌌 GitHub Contributions Overview
-![Sami's GitHub Stats](https://vercel.app)
-
-### 💻 Primary Languages Used
-![Sami's Top Languages](https://vercel.app)
-
-### 🔥 Continuous Commit Streak
-![Sami's GitHub Streak](https://herokuapp.com)
+👉 Result: **Higher ROI, lower operational cost, faster growth**
 
 ---
 
 ## 🧠 CTO-Level Strategy: Solving the Efficiency Gap
 
 In 2026, building an app is not enough.
-* Companies ignoring AI automation face **massive operational overhead**.
-* Most startups are stuck in **tool chaos** (CRMs, Sheets, apps that don’t integrate).
-* Manual workflows act as absolute **scaling bottlenecks**.
+
+- Companies ignoring AI automation face **massive operational overhead**
+- Most startups are stuck in **tool chaos (CRMs, Sheets, apps that don’t integrate)**
+- Manual workflows = **scaling bottlenecks**
 
 I solve this by building **Agentic Workflows** — systems that don’t just assist, but **act autonomously**.
 
-### 🤖 Intelligent Zero-Touch Systems
-* **Lead Gen:** AI agents qualify incoming leads automatically.  
-* **Zero Human Input:** High-complexity workflows execute tasks natively.  
-* **Frictionless Pipelines:** Aggregated data streams seamlessly across all operational tools.  
-* **Autopilot Operations:** Shifting business engines from reactive to self-running.
+---
+
+## 🤖 Intelligent Zero-Touch Systems
+
+I design and develop systems where:
+
+- AI agents qualify leads automatically  
+- Workflows execute tasks without human input  
+- Data flows seamlessly across all tools  
+- Your operations become **self-running**
+
+---
+
+## 🔧 Core Expertise
+
+### 🧠 AI & Automation
+- Custom AI Agents (OpenAI / Claude)
+- LLM Workflows & RAG Systems
+- Autonomous Chatbots (Action-based, not just chat)
+
+### 🔗 Workflow Automation
+- n8n (advanced orchestration)
+- Make / Zapier (SaaS automation)
+- Multi-system integrations
+
+### 📱 Development
+- React Native (iOS & Android)
+- Next.js / React
+- Node.js Backend Systems
+
+### ☁️ Infrastructure
+- Firebase, Supabase
+- AWS
+- PostgreSQL / MongoDB
 
 ---
 
 ## 🚀 Proven Results
 
-* **📱 Cabz (Taxi Ecosystem – Croatia):** Built automated dispatch & real-time tracking. Scaled to **1000+ users in the first month**.
-* **🔁 AI-to-Mobile Pipeline:** Converted raw AI prototypes into production-ready mobile apps. Integrated **automated onboarding & workflows**.
-* **🏥 Kavan AI (Medical Platform):** Automated patient-data synchronization. Reduced scheduling delays by **40%**.
-* **🤖 Autonomous Sales Agents:** 24/7 lead qualification bots with live CRM sync + instant alerts. Reduced manual sales workloads significantly.
+### 📱 Cabz (Taxi Ecosystem – Croatia)
+- Built automated dispatch & real-time tracking  
+- Scaled to **1000+ users in first month**
+
+---
+
+### 🔁 AI-to-Mobile Pipeline
+- Converted AI prototypes into production-ready mobile apps  
+- Integrated **automated onboarding & workflows**
+
+---
+
+### 🏥 Kavan AI (Medical Platform)
+- Automated patient-data synchronization  
+- Reduced scheduling delays by **40%**
+
+---
+
+### 🤖 Autonomous Sales Agents
+- 24/7 lead qualification bots  
+- CRM sync + instant alerts  
+- Reduced manual sales workload significantly  
 
 ---
 
 ## 💡 Why High-Growth Founders Work With Me
 
-* 🎯 **ROI-Focused Development** — Business outcomes > code  
-* ⚡ **10x Faster MVP Delivery** using AI-assisted workflows  
-* 🔗 **Full System Integration** (no more disconnected tools)  
-* 💰 **Cost Reduction** — replace 10–15+ hours/week of manual work  
-* 🧱 **Scalable Architecture** — built for long-term growth  
+- 🎯 **ROI-Focused Development** — Business outcomes > code  
+- ⚡ **10x Faster MVP Delivery** using AI-assisted workflows  
+- 🔗 **Full System Integration** (no more disconnected tools)  
+- 💰 **Cost Reduction** — replace 10–15+ hours/week of manual work  
+- 🧱 **Scalable Architecture** — built for long-term growth  
+
+---
+
+## 🌐 Portfolio & Contact
+
+- 🔗 Portfolio: https://sami.workflox.net/  
+- 💼 Upwork: https://www.upwork.com/freelancers/~01ba6fdd8b0d35e17e  
+- 📩 Open for: High-impact freelance & long-term partnerships  
 
 ---
 
 ## 🤝 Let’s Build a Scalable System — Not Just an App
 
-If you're a founder serious about scaling faster, automating operations, and building a future-proof product:
+If you're a founder serious about:
+- Scaling faster  
+- Automating operations  
+- Building a future-proof product  
 
-📩 **Let’s connect and map your roadmap:** Reach out via [Upwork](https://upwork.com) or visit my platform at [sami.workflox.net](https://workflox.net).
+Let’s connect and map your roadmap.
+
+
+
+this is what i am currently using
