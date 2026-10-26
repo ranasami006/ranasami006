@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Premium Animated Header -->
-  <img src="https://demolab.com" alt="Sami - Fractional CTO" />
+  <img src="https://demolab.com👋+Hi,+I'm+Rana+Sami+Ullah;Fractional+CTO+%26+AI+Builder" alt="Sami - Fractional CTO" />
 
   <p align="center">
     <a href="https://workflox.net"><img src="https://shields.io🌐_Portfolio-sami.workflox.net-00F2FE?style=for-the-badge&logoColor=white" /></a>
@@ -56,14 +56,24 @@ I don’t just build apps — I build **intelligent ecosystems** where:
 
 ## 📊 Live Software Engineering Metrics
 
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="Sami's GitHub Stats" />
-  <img src="https://vercel.app" width="49%" alt="Sami's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" width="100%" alt="Sami's GitHub Streak" />
-</p>
+<div align="center">
+  <!-- Top Stacked Hero Card: Overall Analytics -->
+  <img src="https://vercel.app" width="85%" alt="Sami's GitHub Stats" />
+  
+  <br/><br/>
+  
+  <!-- Side-by-Side Secondary Cards: Languages and Commits Consistency -->
+  <table border="0" cellpadding="0" cellspacing="0" width="85%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://vercel.app" width="98%" alt="Sami's Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://herokuapp.com" width="98%" alt="Sami's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
