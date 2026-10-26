@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Premium Animated Header -->
-  <img src="https://demolab.com👋+Hi,+I'm+Rana+Sami+Ullah;Fractional+CTO+%26+AI+Builder" alt="Sami - Fractional CTO" />
+  <img src="https://demolab.com" alt="Sami - Fractional CTO" />
 
   <p align="center">
     <a href="https://workflox.net"><img src="https://shields.io🌐_Portfolio-sami.workflox.net-00F2FE?style=for-the-badge&logoColor=white" /></a>
