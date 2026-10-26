@@ -1,23 +1,14 @@
-<div align="center">
-  <!-- Premium Animated Header -->
-  <img src="https://demolab.com👋+Hi,+I'm+Rana+Sami+Ullah;Fractional+CTO+%26+AI+Builder" alt="Sami - Fractional CTO" />
+# 👋 Hi, I'm Rana Sami Ullah
+### Fractional CTO & AI Product Builder | Architecting Zero-Touch Automation
 
-  <p align="center">
-    <a href="https://workflox.net"><img src="https://shields.io🌐_Portfolio-sami.workflox.net-00F2FE?style=for-the-badge&logoColor=white" /></a>
-    <a href="https://upwork.com"><img src="https://shields.io💼_Upwork-Hire_Me-14a800?style=for-the-badge&logoColor=white" /></a>
-  </p>
-</div>
+[![Portfolio](https://shields.io🌐_Portfolio-sami.workflox.net-00F2FE?style=for-the-badge&logoColor=white)](https://workflox.net) [![Upwork](https://shields.io💼_Upwork-Hire_Me-14a800?style=for-the-badge&logoColor=white)](https://upwork.com)
 
 ---
 
 ## 🎬 Portfolio Demo
 Click below to watch:
 
-<div align="center">
-  <a href="https://meta.ai">
-    <img src="https://githubusercontent.com" alt="Portfolio Demo" width="100%" style="border-radius: 10px; border: 2px solid #00F2FE;"/>
-  </a>
-</div>
+[![Portfolio Demo](https://githubusercontent.com)](https://meta.ai)
 
 ## 🚀 CTO-Level Full Stack Developer | AI & Automation Architect
 
@@ -41,8 +32,6 @@ I don’t just build apps — I build **intelligent ecosystems** where:
 
 ## 🔧 Core Tech Stack
 
-<div align="center">
-
 | Category | Tech & Tools |
 | :--- | :--- |
 | **🧠 AI & Core Automation** | ![OpenAI](https://shields.ioOpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://shields.ioClaude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white) ![n8n](https://shields.ion8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) ![Make](https://shields.ioMake-4A154B?style=flat-square&logo=make&logoColor=white) |
@@ -50,30 +39,18 @@ I don’t just build apps — I build **intelligent ecosystems** where:
 | **💻 Backend & Data** | ![Node.js](https://shields.ioNode.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://shields.ioSupabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://shields.ioFirebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **☁️ DB & Cloud Infrastructure**| ![PostgreSQL](https://shields.ioPostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://shields.ioMongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![AWS](https://shields.ioAWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 
-</div>
-
 ---
 
 ## 📊 Live Software Engineering Metrics
 
-<div align="center">
-  <!-- Top Stacked Hero Card: Overall Analytics -->
-  <img src="https://vercel.app" width="85%" alt="Sami's GitHub Stats" />
-  
-  <br/><br/>
-  
-  <!-- Side-by-Side Secondary Cards: Languages and Commits Consistency -->
-  <table border="0" cellpadding="0" cellspacing="0" width="85%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://vercel.app" width="98%" alt="Sami's Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://herokuapp.com" width="98%" alt="Sami's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 🌌 GitHub Contributions Overview
+![Sami's GitHub Stats](https://vercel.app)
+
+### 💻 Primary Languages Used
+![Sami's Top Languages](https://vercel.app)
+
+### 🔥 Continuous Commit Streak
+![Sami's GitHub Streak](https://herokuapp.com)
 
 ---
 
